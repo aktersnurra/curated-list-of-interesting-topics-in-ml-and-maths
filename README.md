@@ -79,6 +79,7 @@
 
 * https://selfdrivingcars.mit.edu/deeptraffic/
 
+* https://spinningup.openai.com/en/latest/spinningup/spinningup.html
 
 ## Computing
 * https://github.com/collections/machine-learning
