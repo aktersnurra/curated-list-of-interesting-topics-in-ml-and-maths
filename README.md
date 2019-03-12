@@ -1,2 +1,39 @@
-# curated-list-of-interesting-topics-in-ml-and-maths
-My curated list of articles and topics I find interesting.
+# Brain Inspired
+
+## Hierarchical Temporal Memory
+
+## Feynman Machines
+
+# Machine Learning
+
+## Speech
+
+## Machine Translation
+
+## Recurrent Neural Networks
+
+## Robots
+
+## Misc Theory
+
+## Courses
+
+## Vision
+
+## Reinforcement Learning
+
+## Computing
+
+## Evolution
+
+## Generative Adversarial Network
+
+## Best Practices for ML Engineering
+
+## Blogs
+
+## Datasets
+
+## Grid Cells
+
+## Differentiable Neural Computer
