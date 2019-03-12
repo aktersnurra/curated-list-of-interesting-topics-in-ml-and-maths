@@ -38,6 +38,8 @@
 
 * http://deeplearning.net/reading-list/tutorials/
 
+* http://colah.github.io/
+
 ## Courses
 
 ## Vision
