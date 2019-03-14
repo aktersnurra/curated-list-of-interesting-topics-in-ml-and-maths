@@ -35,6 +35,12 @@
 ## Robots
 * TBC
 
+## Neural Processes
+
+* https://github.com/deepmind/neural-processes
+
+* https://openreview.net/pdf?id=SkE6PjC9KX
+
 ## Misc Theory
 * https://page.mi.fu-berlin.de/rojas/neural/chapter/K14.pdf
 
