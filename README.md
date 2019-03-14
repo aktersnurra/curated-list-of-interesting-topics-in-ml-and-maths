@@ -79,7 +79,14 @@
 
 * https://selfdrivingcars.mit.edu/deeptraffic/
 
+* https://deepmind.com/research/publications/causal-reasoning-meta-reinforcement-learning/
+
 * https://spinningup.openai.com/en/latest/spinningup/spinningup.html
+
+### World Models
+
+* https://worldmodels.github.io/
+
 
 ## Computing
 * https://github.com/collections/machine-learning
